@@ -2,7 +2,7 @@ import Link from "next/link";
 import Layout from "../components/Layout";
 
 const IndexPage = () => (
-  <Layout title="Coming Soon - Clean Coming Soon Page (Tailwind CSS, NextJs & HTML5) created by themeptation.net">
+  <Layout title="Coming Soon - PixeDuck NFT">
     <img
       src="/images/xera.svg"
       alt="Themeptation "
@@ -65,7 +65,6 @@ const IndexPage = () => (
             <img
               src="/images/opensea.svg"
               className="w-6 h-6"
-              viewBox="0 0 24 24"
               aria-hidden="true"
             />
             </a>
