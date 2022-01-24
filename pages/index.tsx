@@ -2,7 +2,7 @@ import Link from "next/link";
 import Layout from "../components/Layout";
 
 const IndexPage = () => (
-  <Layout title="Coming Soon - PixeDuck NFT">
+  <Layout title="Coming Soon - Play to earn Game Project">
     <img
       src="/images/xera.svg"
       alt="Themeptation "
