@@ -47,9 +47,15 @@ export default function App() {
       </Canvas>
       <div className="layer" />
       <Loader />
-      <a href="https://opensea.io/pixeduck" className="top-left" children="Opensea" />
-      <a href="https://twitter.com/PixeDUCK" className="top-right" children="Twitter" />
-      <a href="#" className="bottom-left" children="copyright 2022 &copy; Pixeduck &amp; pmndrs" />
+      <a href="https://opensea.io/pixeduck" className="top-left">
+        Opensea
+      </a>
+      <a href="https://twitter.com/PixeDUCK" className="top-right">
+      Twitter
+      </a>
+      <p href="#" className="bottom-left">
+      copyright 2022 &copy; Pixeduck &amp; pmndrs
+      </p>
     </>
   )
 }
