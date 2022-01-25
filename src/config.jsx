@@ -1,10 +1,10 @@
 import Head from 'next/head'
 
-const titleDefault = 'React Three Next Starter'
-const url = 'https://react-three-next.vercel.app/'
+const titleDefault = 'PixeDUCK'
+const url = 'https://www.pixeduck.com/'
 const description =
-  'The easiest and fastest way to create a 3D website using React Three Fiber and NextJS'
-const author = 'Author'
+  'PixeDUCK is a collection of unique Duck Skin NFTs, living on Ethereum blockchain. Your PixeDUCK NFT will be converted into limited skin game'
+const author = 'PixeDUCK Team'
 
 const Header = ({ title = titleDefault }) => {
   return (
