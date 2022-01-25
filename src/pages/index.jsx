@@ -26,7 +26,7 @@ export default function App() {
     <>
       <div className="bg" />
       <h1>
-        <span className="text-4xl lg:text-6xl">PixeDUCK </span>
+        <span className="text-4xl lg:text-6xl font-arcade">PixeDUCK </span>
         <span className="text-2xl lg:text-4xl">just</span>
         <br />
         <span className="text-2xl lg:text-4xl">Land to </span> 

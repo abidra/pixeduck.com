@@ -19,6 +19,10 @@
 }
 
 @import url('https://rsms.me/inter/inter.css');
+@font-face {
+  font-family: 'Arcade';
+  src: url('arcade.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}  
 
 html,
 body,

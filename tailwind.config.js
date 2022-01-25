@@ -6,7 +6,11 @@ module.exports = {
   ], // remove unused styles in production
   darkMode: 'media', // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'arcade': ['Arcade', 'sans-serif']
+      }
+    },
   },
   variants: {
     extend: {},
